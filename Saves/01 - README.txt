@@ -1,0 +1,1 @@
+Don't change the value on the .txt, or the game can have several crash.. if you change some values just delete all the .txt and the game will recreate them (But you loose all your data :/)
